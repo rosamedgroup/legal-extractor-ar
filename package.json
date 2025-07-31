@@ -1,0 +1,12 @@
+{
+  "name": "legal-extractor-ar",
+  "version": "1.0.0",
+  "description": "AI-Powered Legal Case Extractor in Arabic",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "build": "echo 'No build step required'"
+  },
+  "author": "",
+  "license": "ISC"
+}
